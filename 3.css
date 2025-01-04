@@ -1,0 +1,36 @@
+body {
+    background: red;
+}
+.container {
+    display: flex;
+    margin: 100px 300px 100px 300px ;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+.box2 {
+    width: 400px;
+    height: 400px;
+    background: white;
+    padding: 0px 20px 0px 20px ;
+}
+button {
+    padding-left: 190px;
+    padding-right: 190px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+input{
+    padding: 5px 115px 5px 115px;
+    background-color: rgb(202, 202, 202);
+}
+p {
+    color: grey;
+}
+h5 {
+    color: white;
+}
